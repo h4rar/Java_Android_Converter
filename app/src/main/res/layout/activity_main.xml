@@ -12,7 +12,6 @@
         android:layout_height="wrap_content"
         tools:context=".MainActivity">
 
-
         <EditText
             android:id="@+id/sourceNum"
             android:layout_width="0dp"
@@ -94,7 +93,6 @@
             android:layout_width="@dimen/button_with"
             android:layout_height="@dimen/button_height"
             android:background="@drawable/ic_action_clear_all"
-            android:text="стереть"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/answer" />
 
