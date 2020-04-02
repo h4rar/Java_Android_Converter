@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="sourceNum">Введите число</string>
+    <string name="sourceBase">Из</string>
+    <string name="endBase">В</string>
+    <string name="answer">Результат</string>
+    <string name="in_other_system">В других системах:</string>
+    <string name="error">Вы допустили ошибку и теперь котик грустит</string>
+</resources>

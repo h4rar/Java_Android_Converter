@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="sourceNum">Enter number</string>
+    <string name="sourceBase">From</string>
+    <string name="endBase">To</string>
+    <string name="answer">Result</string>
+    <string name="in_other_system">In other system:</string>
+    <string name="error">You made a mistake</string>
+</resources>
